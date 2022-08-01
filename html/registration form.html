@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>registration form</title>
+        <link rel="stylesheet" href="registration form.css">
+    </head>
+    <body>
+        <form>
+           <center><img src="skart logo.jpeg"></center>
+            <label for="name">fname</label>
+            <input type="text" id="name" placeholder="NAME"><br><br>
+            <label for="Lname">Lname</label>
+            <input type="text" id="name" placeholder="LNAME"><br><br>
+            <label for="Email*">Email*</label>
+            <input type="email" placeholder="abc@gmail.com" required><br><br>
+            <label for="DOB">DOB</label>
+            <input type="date"><br><br>
+            <label for="Mobile No.">Mobile No.</label>
+            <input type="number" step="2"><br><br>
+            <label for="facebook_link">facebook_link</label>
+            <input type="url" id="facebook_link"><br><br>
+            <label for="gender">gender</label>
+            F:<input type="radio" id="gender" name="gender">
+            M:<input type="radio" id="gender" name="gender"><br><br>
+            <label for="Branch">Branch</label><br><br>
+            CSE:<input type="checkbox" id="branch">
+            EE:<input type="checkbox" id="branch">
+            CIVIL:<input type="checkbox" id="branch"><br><br>
+            <select>
+                <optgroup label="web development">
+                    <option value="html">HTML</option>
+                    <option value="css">CSS</option>
+                    <option value="jss">JSS</option>
+                </optgroup>
+            </select><br><br><br>
+            <label for="upload file">upload file</label>
+            <input type="file" name="upload file", id="upload file" accept=".jpg,.jpeg,.pdf,.image/*"><br><br>
+            <label for="message">write your reviews</label><br>
+            <textarea id="message" cols="90" rows="10">message</textarea><br><br>
+            <label for="password">password</label>
+            <input type="password"><br><br>
+            <input type="reset"><br><br>
+            <input type="submit">
+        </form>
+    </body>
+</html>

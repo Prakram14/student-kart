@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(to right, rgb(231, 136, 152), rgb(237, 237, 127));
+}
+.topic{
+    font-size: 80px;
+    padding-left: 500px;
+    color:  rgb(5, 5, 136);
+}
+.main{
+    border: 5px solid rgb(77, 111, 8);
+    padding-top: 15px;
+    padding-bottom: 25px;
+    margin-top: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
+
+}
+.aa{
+    font-size: 40px;
+    padding-left: 500px;
+}
+.bb{
+    font-size: 40px;
+    padding-left: 500px;
+}
+.cc{
+    font-size: 40px;
+    padding-left: 500px
+}
+.dd{
+    font-size: 40px;
+    padding-left: 500px;
+}
+.ee{
+    font-size: 40px;
+    padding-left:500px ;
+}
+.ff{
+    font-size: 40px;
+    padding-left: 500px;
+}
+.gg{
+    font-size: 40px;
+    padding-left: 500px;
+}
+.new1{
+    width: 40px;
+    height: 40px; 
+}
+.new2{
+    width: 40px;
+    height: 40px;
+}
+.new3{
+    width: 40px;
+    height: 40px;
+}
+.new4{
+    width: 40px;
+    height: 40px;
+}
+.new5{
+    width: 40px;
+    height: 40px;
+}
+.new6{
+    width: 40px;
+    height: 40px;
+}
+.new7{
+    width: 40px;
+    height: 40px;
+}

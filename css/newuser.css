@@ -1,0 +1,30 @@
+body{
+  background-image: linear-gradient(to right top, rgb(139, 207, 224), rgb(237, 213, 82));
+   /* background-repeat: no-repeat};
+   background-size: cover;}*/}
+    h1{color: rgb(119,9,114);}
+    h1:hover{color: rgb(231, 19, 19);}
+    button{border:3px solid black;
+      margin-top: 30px;
+      align-self: center;}
+    form{background-repeat: no-repeat;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin: 0px;
+    padding-left: 200px;
+    border-radius: 5px solid rgb(119, 9, 114);
+    margin-left: 210px;}
+    label{
+      color: rgb;
+      font-size: 20px;}
+    .box{
+      border-color: yellow;
+      width: 1450px;
+      height: 675px;
+      border: 10px solid yellow;
+      padding: 10px;
+      margin: 0;
+      box-shadow: 2px 2px 10px 10px rgb(240, 227, 112);
+    }
+    

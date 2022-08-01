@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("Iliac.jpeg");
+}
+.cukart{
+    border:4px solid orangered;
+    font-size: 25px;
+}   
+
+
+.marq{
+    margin-left: 400px;
+    font-size: 35px;
+   overflow: hidden;
+       white-space: nowrap;
+    animation: typing 3s forwards;
+   width: 0;
+}
+
+@keyframes typing{
+    from{ width: 0}
+    to { width: 100%}
+}
+
+
+.img{
+   
+    margin-top: 10px;
+    margin-left: 10px;
+   
+}
+
+.top{
+    font-size: 80px;
+    padding-left: 700px;
+    color: black
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    float: right;
+    font-size: 15px;}
+
+.footer{
+    margin-top: 320px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+
+}
+.footer li a {
+    font-size: 30px;
+}
+
+.footer1 ul li a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 280px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
